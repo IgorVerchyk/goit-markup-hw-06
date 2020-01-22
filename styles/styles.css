@@ -693,6 +693,7 @@
   height: 460px;
   background-image: url(../images/bg2decor.png);
   background-repeat: no-repeat;
+  background-size: cover;
 }
 .rectanglewhite::after {
   display: flex;
